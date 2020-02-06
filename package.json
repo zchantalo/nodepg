@@ -1,0 +1,24 @@
+
+{
+  "name": "DB2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+        "test": "node index.js",
+        "talo-prob1": "node talo-prob1.js",
+        "talo-prob2": "node talo-prob2.js",
+        "talo-prob3": "node talo-prob3.js",
+        "talo-prob4": "node talo-prob4.js",
+        "talo-prob5": "node talo-prob5.js",
+        "talo-prob6": "node talo-prob6.js",
+        "talo-prob7": "node talo-prob7.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
